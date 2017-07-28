@@ -19,7 +19,7 @@ else if (counter == 1){
 else if (counter == 2){
   z.innerHTML = x;
   y.innerHTML = "thats nice";
-  counter = 0;
+
 }
 else if (counter == 3){
   z.innerHTML = x;
@@ -29,7 +29,7 @@ else if (counter == 3){
 else if (counter == 4){
   z.innerHTML = x;
   y.innerHTML = "interesting";
-  counter = 0;
+
 }
 else if (counter == 5){
   z.innerHTML = x;
@@ -39,7 +39,7 @@ else if (counter == 5){
 else if (counter == 6){
   z.innerHTML = x;
   y.innerHTML = "I see";
-  counter = 0;
+  
 }
 else if (counter == 7){
   z.innerHTML = x;
